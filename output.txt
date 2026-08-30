@@ -1,0 +1,3 @@
+YOG: 2026
+Branch: CSD
+CGPA: 8.63
